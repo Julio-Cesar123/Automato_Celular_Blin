@@ -9,7 +9,7 @@ Rafael Calado Moderno de Carvalho RA: 00279983
 Paloma Godoy Santos RA: 00184001  
   
 - Introdução:  
-  - Em 1970, o cientista John Conway inventou um jogo que simula o processo de nascimento, sobrevivência e morte. O jogo da vida é um autômato celular e foi criado de modo a 
+    Em 1970, o cientista John Conway inventou um jogo que simula o processo de nascimento, sobrevivência e morte. O jogo da vida é um autômato celular e foi criado de modo a 
 reproduzir, através de regras simples, as alterações e mudanças em grupos de seres vivos, tendo aplicações em diversas áreas da ciência. A ideia base é que um ser vivo necessita 
 de outros seres vivos para sobreviver e procriar, mas um excesso de densidade populacional provoca a morte do ser vivo devido à escassez de comida. Os indivíduos vivem num mundo 
 matricial e a geração seguinte é gerada a partir da geração anterior de acordo com as seguintes regras, A cada geração, as regras devem ser aplicadas para todos os seres vivos ao 
